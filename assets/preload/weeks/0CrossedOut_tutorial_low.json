@@ -1,0 +1,32 @@
+{
+	"storyName": "Everything you need to know",
+	"difficulties": "tutorial",
+	"hideFreeplay": true,
+	"weekBackground": "CrossedOut",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Tutorilaal",
+			"final",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Crossed Out Tutorial Low - Unbk"
+}
